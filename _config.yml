@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sabine Dritz"
 title_separator          : "-"
 name                     : &name "Sabine Dritz"
-description              : &description "personal description"
+description              : &description "Junior Specialist at the University of California, Davis developing theory on plant-pollinator mutualisms."
 url                      : https://sjdritz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjdritz/sjdritz.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sabine Dritz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Junior Specialist developing theory on plant-pollinator mutualisms."
+  location         : 
+  employer         : "University of California, Davis"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sjdritz"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5125-919X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
