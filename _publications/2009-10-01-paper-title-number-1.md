@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Bioenergetic framework for aboveground terrestrial food webs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 2022-07-21
+venue: 'Pre-Print'
+paperurl: 'https://d197for5662m48.cloudfront.net/documents/publicationstatus/86781/preprint_pdf/5680d45acb39c31d9f47bdd34ec669d8.pdf'
+citation: 'Valdovinos F.S., Hale K.R.S, Dritz S., Glaum P.R., McCann K.S., Simon S.M., Thebault E., Wetzel W.C., Wootton K.L., and Yeakel J.D. (2022). &quot;A bioenergetic framework for aboveground terrestrial food webs..&quot; <i>Pre-Print</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
